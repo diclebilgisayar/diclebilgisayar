@@ -13,4 +13,4 @@
 - 🧮 VKİ Hesaplama (Python)
 
 ## 📫 İletişim
-- GitHub: https://github.com/ahmetdev
+- GitHub: https://github.com/diclebilgisayar
