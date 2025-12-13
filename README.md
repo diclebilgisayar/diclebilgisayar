@@ -11,6 +11,7 @@
 
 ## 📌 Projeler
 - 🧮 VKİ Hesaplama (Python)
+- 🧮 Not Hesaplama (Python)
 
 ## 📫 İletişim
 - GitHub: https://github.com/diclebilgisayar
