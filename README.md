@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba 👋 Ben DicleBilgisayar
 
-<!--
-**diclebilgisayar/diclebilgisayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Python öğreniyorum  
+🧠 Temel & Orta seviye projeler geliştiriyorum  
+📚 Şu an: Python, OOP, Git & GitHub  
 
-Here are some ideas to get you started:
+## 🔧 Teknolojiler
+- Python
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projeler
+- 🧮 VKİ Hesaplama (Python)
+
+## 📫 İletişim
+- GitHub: https://github.com/ahmetdev
