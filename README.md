@@ -11,18 +11,12 @@
 
 ## 📌 Projeler
 <!-- PROJECTS:START -->
-### proje-1
 - 🧮 **[asal-sayi](https://github.com/diclebilgisayar/asal-sayi)**
 - 🧮 **[donusturucu](https://github.com/diclebilgisayar/donusturucu)**
 - 🧮 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)**
+- 🧮 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)**
 - 🧮 **[sifre-uret](https://github.com/diclebilgisayar/sifre-uret)**
 - 🧮 **[vki-hesaplama](https://github.com/diclebilgisayar/vki-hesaplama)**
-
-### proje-2
-
-### proje-3
-
-### proje-4
 <!-- PROJECTS:END -->
 
 ## 📫 İletişim
