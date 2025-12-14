@@ -1,8 +1,9 @@
 name: Update Profile Projects
 
+permissions:
+  contents: write
+
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repo’yu klonla
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Python projelerini al
         run: |
@@ -25,21 +25,21 @@ jobs:
             | "- 🧮 **[" + .name + "](" + .html_url + ")**"' \
           > projects.txt
 
+          echo "---- PROJECTS.TXT ----"
+          cat projects.txt
+
+      - name: Marker kontrolü
+        run: |
+          grep "<!-- PROJECTS:START -->" README.md
+          grep "<!-- PROJECTS:END -->" README.md
+
       - name: README.md güncelle
         run: |
-          awk '
-          BEGIN {print_flag=1}
-          /<!-- PROJECTS:START -->/ {
-            print
-            system("cat projects.txt")
-            print_flag=0
-          }
-          /<!-- PROJECTS:END -->/ {
-            print_flag=1
-          }
-          print_flag {print}
-          ' README.md > README.tmp
-          mv README.tmp README.md
+          sed -i '/<!-- PROJECTS:START -->/,/<!-- PROJECTS:END -->/{
+          /<!-- PROJECTS:START -->/!{/<!-- PROJECTS:END -->/!d;}
+          }' README.md
+
+          sed -i '/<!-- PROJECTS:START -->/r projects.txt' README.md
 
       - name: Commit et
         run: |
@@ -50,4 +50,6 @@ jobs:
             git add README.md
             git commit -m "Update projects list"
             git push
+          else
+            echo "README değişmedi"
           fi
