@@ -11,6 +11,7 @@
 
 ## 📌 Projeler
 <!-- PROJECTS:START -->
+### proje-1
 - 🧮 **[asal-sayi](https://github.com/diclebilgisayar/asal-sayi)**
 - 🧮 **[donusturucu](https://github.com/diclebilgisayar/donusturucu)**
 - 🧮 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)**
