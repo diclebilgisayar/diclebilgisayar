@@ -19,26 +19,36 @@
 
 ### 🐍 Python Projeleri
 
-- 🧮 **[asal-sayi](https://github.com/diclebilgisayar/asal-sayi)**
-- 🔄 **[donusturucu](https://github.com/diclebilgisayar/donusturucu)**
-- 📊 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)**
-- 🎯 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)**
-- 🔐 **[sifre-uret](https://github.com/diclebilgisayar/sifre-uret)**
+#### 📂 Kategori 1: Temel Algoritma ve Mantık
 - ⚖️ **[vki-hesaplama](https://github.com/diclebilgisayar/vki-hesaplama)**
+- 📊 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)**
+- 🔄 **[donusturucu](https://github.com/diclebilgisayar/donusturucu)**
+- 🧮 **[asal-sayi](https://github.com/diclebilgisayar/asal-sayi)**
+- 🔐 **[sifre-uret](https://github.com/diclebilgisayar/sifre-uret)**  
 
----
+#### 📂 Kategori 2: Oyunlar ve Eğlence 
+- 🎯 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)** 
+
+
+#### 📂 Kategori 3: Veri Yönetimi ve Dosya İşlemleri 
+
+
+#### 📂 Kategori 4: İleri Seviye (Modüller ve Küçük Arayüzler)
+
 
 ### ☕ Java Projeleri
 
-- ☕ **ogrenci-yonetim** *(yakında)*
-- ☕ **hesap-makinesi** *(yakında)*
+#### 📂 Kategori 1: Temel Algoritmalar
+- ☕ **Hesap Makinesi** *(yakında)*  
+- ☕ **Faktöriyel Hesaplama** *(yakında)*
 
 ---
 
 ### 💻 C Projeleri
 
-- 💻 **faktoriyel** *(yakında)*
-- 💻 **sayi-siralama** *(yakında)*
+#### 📂 Kategori 1: Temel C Algoritmaları
+- 💻 **Faktöriyel** *(yakında)*
+- 💻 **Sayı Sıralama** *(yakında)*
 
 ---
 
