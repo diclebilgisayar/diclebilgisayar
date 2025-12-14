@@ -11,6 +11,8 @@
 
 ## 📌 Projeler
 <!-- PROJECTS:START -->
+- 🧮 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)**
+- 🧮 **[vki-hesaplama](https://github.com/diclebilgisayar/vki-hesaplama)**
 <!-- PROJECTS:END -->
 
 ## 📫 İletişim
