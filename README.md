@@ -10,8 +10,8 @@
 - GitHub
 
 ## 📌 Projeler
-- 🧮 VKİ Hesaplama (Python)
-- 🧮 Not Hesaplama (Python)
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ## 📫 İletişim
 - GitHub: https://github.com/diclebilgisayar
