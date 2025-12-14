@@ -1,1 +1,56 @@
-.github/workflows/update-projects.yml
+name: Update Profile Projects
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Her gün 00:00
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo’yu klonla
+        uses: actions/checkout@v3
+
+      - name: GitHub API ile Python projelerini al
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+          curl -s https://api.github.com/users/diclebilgisayar/repos \
+          | jq -r '.[] 
+            | select(.language=="Python") 
+            | select(.fork==false) 
+            | "- 🧮 **[" + .name + "](" + .html_url + ")**"' \
+          > projects.txt
+
+      - name: README.md güncelle
+        run: |
+          awk '
+          BEGIN {print_flag=1}
+          /<!-- PROJECTS:START -->/ {
+            print
+            system("cat projects.txt")
+            print_flag=0
+          }
+          /<!-- PROJECTS:END -->/ {
+            print_flag=1
+          }
+          print_flag {print}
+          ' README.md > README.tmp
+          mv README.tmp README.md
+
+      - name: Değişiklik varsa commit et
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if ! git diff --quiet; then
+            git add README.md
+            git commit -m "Update projects list"
+            git push
+          else
+            echo "Değişiklik yok"
+          fi
+
