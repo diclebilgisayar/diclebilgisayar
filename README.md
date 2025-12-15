@@ -72,7 +72,9 @@ Kodlar eğitim ve geliştirme amaçlı serbestçe kullanılabilir.
 
 ---
 
-## ⭐ Projeleri faydalı bulursan **GitHub’da yıldızlamayı** unutma!
+## ⭐ Like
+
+Projeleri faydalı bulursan yıldızlamayı unutma!
 
 ## 📫 İletişim
 - GitHub: https://github.com/diclebilgisayar
