@@ -15,6 +15,18 @@
 
 ---
 
+## 🎯 Amaç
+
+Python temellerini pekiştirmek
+
+Algoritmik düşünme becerisini geliştirmek
+
+Açık kaynak projeler üretmek
+
+Yeni başlayanlara örnek olmak
+
+---
+
 ## 📌 Projeler
 
 ### 🐍 Python Projeleri
@@ -52,6 +64,15 @@
 - 💻 **Sayı Sıralama** *(yakında)*
 
 ---
+
+## 📌 Lisans
+
+Bu portföydeki tüm projeler MIT Lisansı ile lisanslanmıştır.
+Kodlar eğitim ve geliştirme amaçlı serbestçe kullanılabilir.
+
+---
+
+## ⭐ Projeleri faydalı bulursan yıldızlamayı unutma!
 
 ## 📫 İletişim
 - GitHub: https://github.com/diclebilgisayar
