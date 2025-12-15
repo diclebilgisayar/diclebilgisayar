@@ -17,7 +17,7 @@
 
 ## 🎯 Amaç
 
-Python temellerini pekiştirmek
+Programlama dillerinin temellerini pekiştirmek
 
 Algoritmik düşünme becerisini geliştirmek
 
@@ -72,7 +72,7 @@ Kodlar eğitim ve geliştirme amaçlı serbestçe kullanılabilir.
 
 ---
 
-## ⭐ Projeleri faydalı bulursan yıldızlamayı unutma!
+## ⭐ Projeleri faydalı bulursan **GitHub’da yıldızlamayı** unutma!
 
 ## 📫 İletişim
 - GitHub: https://github.com/diclebilgisayar
