@@ -33,14 +33,14 @@ Yeni başlayanlara örnek olmak
 
 #### 📂 Kategori 1: Temel Algoritma ve Mantık
 - ⚖️ **[vki-hesaplama](https://github.com/diclebilgisayar/vki-hesaplama)**
-- 📊 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)**
-- 🔄 **[donusturucu](https://github.com/diclebilgisayar/donusturucu)**
-- 🧮 **[asal-sayi](https://github.com/diclebilgisayar/asal-sayi)**
-- 🔐 **[sifre-uret](https://github.com/diclebilgisayar/sifre-uret)**  
+<!-- - 📊 **[not-hesaplama](https://github.com/diclebilgisayar/not-hesaplama)** -->
+<!-- - 🔄 **[donusturucu](https://github.com/diclebilgisayar/donusturucu)** -->
+<!-- - 🧮 **[asal-sayi](https://github.com/diclebilgisayar/asal-sayi)** -->
+<!-- - 🔐 **[sifre-uret](https://github.com/diclebilgisayar/sifre-uret)** -->  
 
 #### 📂 Kategori 2: Oyunlar ve Eğlence 
-- 🎯 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)**
-- 🎮 **[tas-kagit-makas](https://github.com/diclebilgisayar/tas-kagit-makas)**
+<!-- - 🎯 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)** -->
+<!-- - 🎮 **[tas-kagit-makas](https://github.com/diclebilgisayar/tas-kagit-makas)** -->
 
 
 #### 📂 Kategori 3: Veri Yönetimi ve Dosya İşlemleri 
