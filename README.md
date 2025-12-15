@@ -48,6 +48,7 @@ Yeni başlayanlara örnek olmak
 
 #### 📂 Kategori 4: İleri Seviye (Modüller ve Küçük Arayüzler)
 
+---
 
 ### ☕ Java Projeleri
 
