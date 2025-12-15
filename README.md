@@ -27,7 +27,8 @@
 - 🔐 **[sifre-uret](https://github.com/diclebilgisayar/sifre-uret)**  
 
 #### 📂 Kategori 2: Oyunlar ve Eğlence 
-- 🎯 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)** 
+- 🎯 **[sayi-tahmin](https://github.com/diclebilgisayar/sayi-tahmin)**
+- 🎮 **[tas-kagit-makas](https://github.com/diclebilgisayar/tas-kagit-makas)**
 
 
 #### 📂 Kategori 3: Veri Yönetimi ve Dosya İşlemleri 
