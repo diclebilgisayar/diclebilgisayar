@@ -1,3 +1,22 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
+
+<p align="center">
+    <img src="programming.jpg" alt="Proje Banner" width="100%">
+</p>
+
+<p align="center">
+  🧠 Bu görsel, proje içeriğini özetlemek amacıyla <b>NotebookLM</b> kullanılarak oluşturulmuştur.
+</p>
+
+<p align="center">
+  🔗 İçerik üretim süreci: 
+  <a href="https://notebooklm.google.com/" target="_blank">
+    NotebookLM bağlantısı
+  </a>
+</p>
+
 # Merhaba 👋 Ben DicleBilgisayar
 
 🎯 Yazılım öğreniyorum  
