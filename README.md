@@ -3,7 +3,7 @@
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
 
 <p align="center">
-    <img src="programming.jpg" alt="Proje Banner" width="100%">
+    <img src="programming.png" alt="Proje Banner" width="100%">
 </p>
 
 <p align="center">
