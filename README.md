@@ -71,14 +71,12 @@ Yeni başlayanlara örnek olmak
 
 #### 📂 Kategori 1: Temel Algoritmalar
 - ☕ **Hesap Makinesi** *(yakında)*  
-- ☕ **Faktöriyel Hesaplama** *(yakında)*
 
 ---
 
 ### 💻 C Projeleri
 
-#### 📂 Kategori 1: Temel C Algoritmaları
-- 💻 **Faktöriyel** *(yakında)*
+#### 📂 Kategori 1: Temel Algoritmalar
 - 💻 **Sayı Sıralama** *(yakında)*
 
 ---
